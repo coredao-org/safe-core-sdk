@@ -104,6 +104,7 @@ export const networks: NetworkShortName[] = [
   { chainId: 1101n, shortName: 'zkevm' },
   { chainId: 1111n, shortName: 'wemix' },
   { chainId: 1112n, shortName: 'twemix' },
+  { chainId: 1114n, shortName: 'tcore2' },
   { chainId: 1115n, shortName: 'tcore' },
   { chainId: 1116n, shortName: 'core' },
   { chainId: 1135n, shortName: 'lisk' },
